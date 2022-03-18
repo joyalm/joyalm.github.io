@@ -1,0 +1,8 @@
+div {
+  display: block;
+  padding-bottom: calc(100% / (var(--aspect-ratio)));
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
